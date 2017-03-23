@@ -1,0 +1,13 @@
+Location,Grade,Minimum,Maximum
+London,AO,21000,23000
+London,EO,25000,29500
+London,HEO,29750,35000
+London,SEO,35350,44000
+London,Grade 7,48400,57500
+London,Grade 6,58500,69500
+National,AO,18200,21000
+National,EO,22475,27000
+National,HEO,27000,30750
+National,SEO,32500,41000
+National,Grade 7,43400,53000
+National,Grade 6,54000,63500
